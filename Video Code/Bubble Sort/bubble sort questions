@@ -1,0 +1,32 @@
+**# Practical Question:**
+**Problem Statement:**
+
+*You are given an unsorted list of integers unsorted_list. Write a Python program to implement Bubble Sort to sort the list in ascending order.*
+
+**Instructions:**
+
+Use the provided function bubble_sort to implement the solution.
+Ensure that your program sorts the list in ascending order.
+Print the sorted list after applying Bubble Sort. *italicised text*
+
+```
+# Given unsorted list of integers
+unsorted_list = [64, 34, 25, 12, 22, 11, 90]
+
+# Output: "Sorted array: [11, 12, 22, 25, 34, 64, 90]"
+```
+
+---
+
+**# Theory Question:**
+
+**Question:**
+
+*Explain the Bubble Sort algorithm and its key steps. Provide an example demonstrating its implementation in Python. Also, discuss its time complexity and any scenarios where it might be preferable over other sorting algorithms.*
+
+**Guidelines:**
+
+*Describe how Bubble Sort works, including its comparison and swapping steps.
+Provide a Python code snippet illustrating the implementation of Bubble Sort.
+Discuss the time complexity of Bubble Sort and its implications.
+Explain scenarios where Bubble Sort is suitable or unsuitable compared to other sorting algorithms.*
