@@ -1,0 +1,31 @@
+# **Practical Question:**
+
+**Problem Statement:**
+
+*You are given an unsorted list of integers unsorted_list. Write a Python program to implement QuickSort to sort the list in ascending order.*
+
+**Instructions:**
+
+*Use the provided functions partition and quicksort to implement the solution.
+Ensure that your program sorts the list in ascending order.
+Print the sorted list after applying QuickSort.*
+
+```
+# Given unsorted list of integers
+unsorted_list = [10, 7, 8, 9, 1, 5]
+
+# Output: "Sorted array: [1, 5, 7, 8, 9, 10]"
+```
+
+
+---
+# **Theory Question**
+**Question:**
+
+*Explain the QuickSort algorithm and its key steps. Provide an example demonstrating its implementation in Python. Also, discuss its time complexity and any scenarios where it might be preferable over other sorting algorithms.*
+
+**Guidelines:**
+*   Describe how QuickSort works, including its partitioning and recursion steps.
+*   Provide a Python code snippet illustrating the implementation of QuickSort.
+*   Discuss the time complexity of QuickSort and its implications.
+*   Explain scenarios where QuickSort is suitable or unsuitable compared to other sorting algorithms.
